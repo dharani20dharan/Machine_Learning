@@ -1,5 +1,5 @@
 import pickle
-import Streamlit as st
+import streamlit as st
 
 # ✅ No external API call needed
 def fetch_poster(movie_id):
